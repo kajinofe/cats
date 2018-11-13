@@ -4,5 +4,3 @@ def eggs(someParameter):
 spam = [1, 2, 3]
 eggs(spam)
 print(spam)
-print(spam)
-print(spam)
